@@ -11,7 +11,7 @@ class FoddaCli < Formula
   # Once published to npm, run:
   # curl -sL https://registry.npmjs.org/fodda-cli/-/fodda-cli-1.0.0.tgz | shasum -a 256
   # and replace this value:
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "5e7ee4b62b94216d55671a70fdaf89c8909e28c35986d7c209f1e426349af774"
   
   license "MIT"
 
